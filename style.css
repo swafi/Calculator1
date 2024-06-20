@@ -37,12 +37,12 @@ body {
     border-radius: 5px;
     font-size: 1.5rem;
     color: #fff;
-    background-color: #f1a33c;
+    background-color: #141413;
     cursor: pointer;
 }
 
 .calculator-keys button.operator {
-    background-color: #f5913e;
+    background-color: #141414;
 }
 
 .calculator-keys button.equal-sign {
